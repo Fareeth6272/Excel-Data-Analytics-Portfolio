@@ -49,7 +49,7 @@ The analysis uses a synthetic sales dataset, available here:
 
 ## Dashboard Snapshot
 
-[Link to your Dashboard Screenshot](https://github.com/Fareeth6272/Data-Analytics-Portfolio/blob/main/Bike%20Sales%20Dashboard.png)
+file:///C:/Users/Abdul/Pictures/Screenshots/Screenshot%202025-02-23%20200339.png
 
 *(For full interactivity, please download the `Bike_Sales_Dashboard.xlsx` file and open in Microsoft Excel.)*
 
